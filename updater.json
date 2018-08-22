@@ -1,18 +1,18 @@
 {
   "app": {
     "version": "5.8.3",
-    "versionCode": "134005",
-    "link": "https://nathanchance.me/downloads/magisk/MagiskManager-v5.8.3(134005)-gc967e618a1b8.apk",
+    "versionCode": "135006",
+    "link": "https://nathanchance.me/downloads/magisk/MagiskManager-v5.8.3(135006)-gbfac1f1bc28b.apk",
     "note": "https://raw.githubusercontent.com/nathanchance/magisk-files/master/README.md"
   },
   "magisk": {
     "version": "16.7",
-    "versionCode": "1675005",
-    "link": "https://nathanchance.me/downloads/magisk/Magisk-v16.7(1675005)-gc967e618a1b8.zip",
+    "versionCode": "1675006",
+    "link": "https://nathanchance.me/downloads/magisk/Magisk-v16.7(1675006)-gbfac1f1bc28b.zip",
     "note": "https://raw.githubusercontent.com/nathanchance/magisk-files/master/README.md",
-    "md5": "58e7a9a2fc21907c051d393681322834"
+    "md5": "cc54080d63a9a33643d7ee2e4aad9fa4"
   },
   "uninstaller": {
-    "link": "https://nathanchance.me/downloads/magisk/Magisk-uninstaller-gc967e618a1b8.zip"
+    "link": "https://nathanchance.me/downloads/magisk/Magisk-uninstaller-gbfac1f1bc28b.zip"
   }
 }
