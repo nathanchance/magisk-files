@@ -14,5 +14,9 @@
   },
   "uninstaller": {
     "link": "https://nathanchance.me/downloads/magisk/Magisk-uninstaller-gbfac1f1bc28b.zip"
+  },
+  "snet": {
+    "versionCode": "11",
+    "link": "https://nathanchance.me/downloads/magisk/snet.apk"
   }
 }
